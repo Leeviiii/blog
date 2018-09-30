@@ -1,5 +1,5 @@
 [原始文档](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-
+[TOC]
 ## 介绍:为何选择googletest?
 googletest可以帮助你写出更好的C++测试代码。
 
